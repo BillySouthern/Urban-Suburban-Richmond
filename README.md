@@ -7,3 +7,4 @@ Each script includes code for the four most recent census years (1990 - 2020), u
 
 Units of observation include the Core-Based Statistical Area (the Metropolitan Statistical Area in this case of Richmond), the central cities/independant cities, and the census tract.  Spatial boundaries for 1990 and 2000 are first retrieved from NHGIS, while later units are sourced from TIGRIS/Tiycensus.
 
+Newer delineations are obtained through spatial filtering while older delineations use relevant counties Counties. Predetermined objects require adjusting as necessary.  
